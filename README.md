@@ -1,9 +1,12 @@
-# Tracking-issues
-Things to learn
+### Check List Things to learn on Demand
 - [ ] Java Basics revision
 - [ ] Java8 Features Hands on
 - [ ] Java11 Features Hands on
 - [ ] Springboot framework Document
+- [ ] Junits need to explosure need to do pratice all types layers (private method mocking @spy,@injectmocks @mock)
+- [ ] Explosure more on DB concepts(writing Querys)
+- [ ] Explosure on Design Patterns
+- [ ] Do pocs on microservices and Messafing services
 - [ ] OOTB query
 - [ ] Spring Webflux: EventLoop vs Thread per Request Model | by Kaushal Singh | Medium
 - [ ] click here [Spring 5 Reactive playground](https://github.com/rajadileepkolli/spring-reactive-sample)
