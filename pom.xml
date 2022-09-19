@@ -15,6 +15,7 @@
 	<description>Experimenting known features of spring boot</description>
 	<properties>
 		<java.version>11</java.version>
+		<spotless.version>2.25.0</spotless.version>
 	</properties>
 	<dependencies>
 		<dependency>
@@ -36,6 +37,29 @@
 
 	<build>
 		<plugins>
+			<!-- Format Code Automatically -->
+			 <plugin>
+                <groupId>com.diffplug.spotless</groupId>
+                <artifactId>spotless-maven-plugin</artifactId>
+                <version>${spotless.version}</version>
+                <configuration>
+                    <java>
+                        <googleJavaFormat>
+                            <version>1.15.0</version>
+                            <style>AOSP</style>
+                        </googleJavaFormat>
+                    </java>
+                </configuration>
+                <executions>
+                    <execution>
+                        <phase>compile</phase>
+                        <goals>
+                            <goal>check</goal>
+                        </goals>
+                    </execution>
+                </executions>
+            </plugin>
+
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>

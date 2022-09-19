@@ -1,4 +1,3 @@
 package com.experiment.experience.springbootfeatures.service;
 
-public class UserService {
-}
+public class UserService {}

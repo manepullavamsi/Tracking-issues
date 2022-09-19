@@ -1,14 +1,10 @@
 package com.experiment.experience.springbootfeatures.utility;
 
-
-import org.springframework.boot.logging.LogLevel;
-import org.springframework.context.annotation.Scope;
-
-import javax.lang.model.element.TypeElement;
-import java.lang.annotation.*;
-
 import static java.lang.annotation.ElementType.*;
 import static java.lang.annotation.RetentionPolicy.RUNTIME;
+
+import java.lang.annotation.*;
+import org.springframework.boot.logging.LogLevel;
 
 @Target({TYPE, METHOD})
 @Retention(RUNTIME)
@@ -20,5 +16,4 @@ public @interface Loggable {
     boolean result() default true;
 
     LogLevel value() default LogLevel.DEBUG;
-
 }

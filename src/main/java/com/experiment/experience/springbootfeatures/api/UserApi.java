@@ -10,18 +10,18 @@ import org.springframework.http.ResponseEntity;
 
 public interface UserApi {
 
-    @Operation(
-            description = "get user details based on userid",
-            method = "getUserById"
-    )
+    @Operation(description = "get user details based on userid", method = "getUserById")
     @Parameters(
-           value = {@Parameter(name="corealationid",
-            required = true,
-                    schema = @Schema(implementation = String.class),
-                    in= ParameterIn.HEADER
-            ),
-            @Parameter(name="id",required = true,schema = @Schema(implementation = String.class))}
-    )
+            value = {
+                @Parameter(
+                        name = "corealationid",
+                        required = true,
+                        schema = @Schema(implementation = String.class),
+                        in = ParameterIn.HEADER),
+                @Parameter(
+                        name = "id",
+                        required = true,
+                        schema = @Schema(implementation = String.class))
+            })
     ResponseEntity<User> getUserById();
-
 }
