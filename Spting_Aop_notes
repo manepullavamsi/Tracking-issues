@@ -1,4 +1,6 @@
 Spring AOP Termnologies 
 >Full Asept programing features will get from AspectJ
-Aspect-> Kind of functionality which we are planning to implement Ex: printing logs and parameters which are getting for any methods and results by default spring have ablilty to intercept for methods
-Pointcut->
+Aspect-> Kind of functionality which we are planning to implement Ex: printing logs and parameters which are getting for any methods and results by default spring have ablilty to intercept for methods 
+or Transcation Details & Performance metrics what time took by Method
+<I>Pointcut</i>->Define what and points need to be intercepts ,An Expression which determines what and all methods that Advice
+ 
