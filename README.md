@@ -11,5 +11,5 @@
 - [ ] Spring Webflux: EventLoop vs Thread per Request Model | by Kaushal Singh | Medium
 - [ ] click here [Spring 5 Reactive playground](https://github.com/rajadileepkolli/spring-reactive-sample)
 - [ ] [>> Debugging REST Requests in Spring-Based applications using the Lightrun Platform](https://lightrun.com/debugging-rest-calls-in-spring-using-lightrun/?utm_source=baeldung&utm_medium=referral&utm_campaign=blurbs&utm_content=REST)
--[ ][https://rancherdesktop.io/]
--[ ][https://owasp.org/] an website which explains twistlock issues
+-[][https://rancherdesktop.io/](docker Alternative
+-[ ][https://owasp.org/](an website which explains twistlock issues)
