@@ -14,5 +14,6 @@
 - [ ] (https://owasp.org/) an website which explains twistlock issues
 - [ ] [>> Debugging REST Requests in Spring-Based applications using the Lightrun Platform](https://lightrun.com/debugging-rest-calls-in-spring-using-lightrun/?utm_source=baeldung&utm_medium=referral&utm_campaign=blurbs&utm_content=REST)
 - [ ]Sprinboot alternative micronaut(https://micronaut.io/)
-- [ ]Java Native methods like making call to C or C++ lanaguage
+- [ ] Java Native methods like making call to C or C++ lanaguage
+- [ ] Need to check how Java is doing vrify our code to check for any malware like anything
 
