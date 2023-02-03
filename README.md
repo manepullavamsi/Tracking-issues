@@ -16,4 +16,5 @@
 - [ ]Sprinboot alternative micronaut(https://micronaut.io/)
 - [ ] Java Native methods like making call to C or C++ lanaguage
 - [ ] Need to check how Java is doing vrify our code to check for any malware like anything
+- [ ] ISAM AND LDAIF Need to know
 
