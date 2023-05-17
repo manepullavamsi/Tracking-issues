@@ -1,5 +1,6 @@
 Title: Fixing the "Failed to Configure a DataSource" Error in Spring Boot
-(reference)[https://www.baeldung.com/spring-boot-failed-to-configure-data-source]
+
+[] [reference](https://www.baeldung.com/spring-boot-failed-to-configure-data-source)
 
 Introduction:
 The "Failed to configure a DataSource" error can occur when working with a Spring Boot project that includes the spring-data-starter-jpa dependency and a MySQL JDBC driver. This tutorial will guide you through resolving this error using two different approaches. You can either define the data source or disable the auto-configuration of the data source.
