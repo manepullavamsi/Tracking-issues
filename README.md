@@ -20,4 +20,4 @@
 - [ ] Logging and tracing concept to understand how Correlation id is forming 
 - [ ] Let's explore this Sprinboot class to know how Autoconfiguration works: **org.springframework.boot.autoconfigure.web.servlet.WebMvcAutoConfiguration**
 - [ ] Redis cache Inmemory how it works [reference](https://www.alibabacloud.com/tech-news/redis/2n7-does-redis-persist-data-on-restart#:~:text=Redis%20is%20designed%20to%20persist,and%20writing%20it%20to%20disk.)
-
+- [ ] Cricular Dependency In Spring Boot.[reference](https://www.baeldung.com/circular-dependencies-in-spring)
