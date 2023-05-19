@@ -23,3 +23,7 @@
 - [ ] Cricular Dependency In Spring Boot.[reference](https://www.baeldung.com/circular-dependencies-in-spring)
 - [ ] Thread Per request in Spring how spring work
 - [ ] Cold Cache VS Old Cache differences
+- [ ] save and retrieve 1 GB file in DB.
+----------------
+save jsonb type in DB.
+-------------------
