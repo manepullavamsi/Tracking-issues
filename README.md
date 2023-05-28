@@ -24,6 +24,7 @@
 - [ ] Thread Per request in Spring how spring work
 - [ ] Cold Cache VS Old Cache differences
 - [ ] save and retrieve 1 GB file in DB.
+- [ ] spring authrzation [link](https://docs.spring.io/spring-authorization-server/docs/current/reference/html/how-to.html)
 ----------------
 save jsonb type in DB.
 -------------------
