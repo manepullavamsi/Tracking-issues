@@ -26,7 +26,7 @@
 - [ ] save and retrieve 1 GB file in DB.
 - [ ] spring authrzation [link](https://docs.spring.io/spring-authorization-server/docs/current/reference/html/how-to.html)
 - [ ] Felxi Proxy
-- [ ] DataSource Proxy
+- [ ] DataSource Proxy(How Data bases connnections )
 ----------------
 save jsonb type in DB.
 -------------------
