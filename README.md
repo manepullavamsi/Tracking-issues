@@ -31,6 +31,7 @@
 - [ ] Entity Manger Life Cycle
 - [ ] Deploy Springboot in EC2 (reference) [https://blo149.wordpress.com/2023/06/26/springboot-api-java-application-deployment-in-ec2-aws/]
 - [ ] Desig Patterns WHich need to learn [Link](https://medium.com/gitconnected/23-design-patterns-99-of-java-developers-should-learn-45573e076b69)
+- [ ] Good Resource for Java Developer [Link](https://medium.com/@aravind16101800/roadmap-to-becoming-a-java-developer-and-get-hired-2023-bbeb7fccdaae)
 ----------------
 save jsonb type in DB.
 -------------------
