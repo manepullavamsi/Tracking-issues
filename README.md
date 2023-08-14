@@ -29,6 +29,7 @@
 - [ ] DataSource Proxy(How Data bases connnections ) [reference](https://arnoldgalovics.com/spring-boot-datasource-proxy/)
 - [ ] https://www.jooq.org/
 - [ ] Entity Manger Life Cycle
+- [ ] Deploy Springboot in EC2 (reference) [https://blo149.wordpress.com/2023/06/26/springboot-api-java-application-deployment-in-ec2-aws/]
 ----------------
 save jsonb type in DB.
 -------------------
