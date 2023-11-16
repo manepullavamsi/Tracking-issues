@@ -33,6 +33,7 @@
 - [ ] Desig Patterns WHich need to learn [Link](https://medium.com/gitconnected/23-design-patterns-99-of-java-developers-should-learn-45573e076b69)
 - [ ] Good Resource for Java Developer [Link](https://medium.com/@aravind16101800/roadmap-to-becoming-a-java-developer-and-get-hired-2023-bbeb7fccdaae)
 - [ ] Mapstruct [Reference](https://mapstruct.org/documentation/stable/reference/html/)
+- [ ] Using GraalVM to Build Minimal Docker Images for Java Applications
 ----------------
 save jsonb type in DB.
 -------------------
