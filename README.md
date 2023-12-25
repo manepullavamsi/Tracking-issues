@@ -34,6 +34,7 @@
 - [ ] Good Resource for Java Developer [Link](https://medium.com/@aravind16101800/roadmap-to-becoming-a-java-developer-and-get-hired-2023-bbeb7fccdaae)
 - [ ] Mapstruct [Reference](https://mapstruct.org/documentation/stable/reference/html/)
 - [ ] Using GraalVM to Build Minimal Docker Images for Java Applications
+- [ ] https://spring.io/blog/2023/10/24/a-use-case-for-transactions-adapting-to-transactional-outbox-pattern/
 ----------------
 save jsonb type in DB.
 -------------------
