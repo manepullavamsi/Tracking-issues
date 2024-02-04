@@ -1,5 +1,9 @@
 ### Check List Things to learn on Demand
 - [ ] Java Basics revision
+- [ ] JAVA NOTES:
+- Reference-1: https://www.in28minutes.com/downloads/11-java-programming-for-beginners/JavaProgrammingForBeginners-CourseBook.pdf
+- Reference-2: https://www.in28minutes.com/downloads/11-java-programming-for-beginners/JavaProgrammingForBeginners-Presentation.pdf
+
 - [ ] Java8 Features Hands on
 - [ ] Java11 Features Hands on
 - [ ] Springboot framework Document
