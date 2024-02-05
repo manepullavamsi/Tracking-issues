@@ -7,7 +7,7 @@ import org.springframework.stereotype.Component;
 
 @Component
 public class Account {
-    @Autowired
+    
     private  Customer customer;
 //    @Autowired
 //    public Account( Customer customer) {
