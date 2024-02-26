@@ -1,0 +1,25 @@
+Terraform SetUp
+
+had reffered Here :
+https://www.youtube.com/watch?v=aK-Qu_w5ch0
+
+terraform Is an declartive approache to provsion resources in cloud 
+Current we are going through AWS cloud as our resource
+
+After declareing Provider navigate to spefuc path over commad prompt and 
+    1. Execute: 'terraform init' where our terraform file exist 
+    2. declare the resource which we want to provision and every resource will have prefix of their provider 
+    3. After that as we are using aws provider create an I am user with admin crreditials take the scretId and password 
+    4. by using Set ACCESS_ID=value and ACESS_Password=value user Keys what ever you download key file
+    5. After that try these:
+                terraform plan-> which will give what will  happen if current terraform script executed
+                terraform apply -> what ever we specfied in terraform it will applied to resources whaich are present in providers place
+    6. How Terraform Internalluy works:
+                when ever we make changes to terraform file it first check what are the desired state of our resources and 
+                what are current state of our resources if desired state is different than current state then will perform it's desired state
+    7. to navigate into terraform consloe 'terraform console'  -> we resources name and play with it
+    8. output inside terraform file:
+
+    9.terraform apply -refresh=false (to avoid refresh and current state from provider)
+
+    10. save the terrform plan and execute the plan
