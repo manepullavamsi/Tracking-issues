@@ -39,6 +39,7 @@
 - [ ] Mapstruct [Reference](https://mapstruct.org/documentation/stable/reference/html/)
 - [ ] Using GraalVM to Build Minimal Docker Images for Java Applications
 - [ ] https://spring.io/blog/2023/10/24/a-use-case-for-transactions-adapting-to-transactional-outbox-pattern/
+- [ ] https://www.baeldung.com/quartz - for scheduling Jobs.
 ----------------
 save jsonb type in DB.
 -------------------
